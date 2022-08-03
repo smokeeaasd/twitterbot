@@ -1,0 +1,18 @@
+{
+	"auth": {
+		"CONSUMER_KEY" :"CONSUMER_KEY",
+		"CONSUMER_SECRET" :"CONSUMER_SECRET",
+		
+		"ACCESS_TOKEN":"ACCESS_TOKEN",
+		"ACCESS_TOKEN_SECRET" :"ACCESS_TOKEN_SECRET",
+
+		"BEARER_TOKEN": "BEARER_TOKEN"
+	},
+	
+	"fields": {
+		"user_fields": ["tweet", "fields", "aqui"],
+		"tweet_fields": ["lang", "author_id", "possibly_sensitive", "referenced_tweets"]
+	},
+
+	"prefix": "@prefix"
+}
